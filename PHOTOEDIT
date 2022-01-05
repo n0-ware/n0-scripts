@@ -1,0 +1,5 @@
+#/bin/bash
+
+chown n0_ware:n0_ware *
+chmod -x *
+chmod 644 * 

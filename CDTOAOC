@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd /home/n0_ware/Documents/GitHub/hacking-notes/TryHackMe/events/AoC-2021/AoC-2021_Photos/
+$SHELL

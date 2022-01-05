@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo openvpn /home/n0_ware/.v_pn/n0ware.ovpn &
+

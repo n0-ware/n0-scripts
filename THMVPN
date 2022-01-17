@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo openvpn /home/n0_ware/.v_pn/n0ware.ovpn &
+sudo openvpn /home/kali/.v_pn/THM-n0ware.ovpn &
 

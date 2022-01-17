@@ -1,3 +1,3 @@
 #!/bin/bash
 
-openvpn /home/n0_ware/.v_pn/evo_oscp.ovpn &
+openvpn /home/$USER/.v_pn/evo_oscp.ovpn &

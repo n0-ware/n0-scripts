@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo openvpn /home/$USER/.v_pn/PEN-100.ovpn &
+
